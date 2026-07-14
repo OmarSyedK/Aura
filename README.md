@@ -37,7 +37,6 @@ Requires Flutter with the `google_fonts` package (already listed in `pubspec.yam
 
 ## Screenshots
 
-All six auras, one after another.
 
 <p align="center">
   <strong>Hearth</strong><br/>

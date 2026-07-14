@@ -56,3 +56,6 @@ Requires Flutter with the `google_fonts` package (already listed in `pubspec.yam
 ## Built with
 
 Flutter, `CustomPainter`, and an unreasonable amount of care about how a gradient should drift.
+
+## Download Link (APK only)
+https://drive.google.com/file/d/1o6Wm8Q6wwkrR2hIVjJPQJiUBY1OYVuQK/view?usp=sharing
